@@ -66,11 +66,16 @@ User Authentication
 
 Export Data as CSV
 
+NOTE:-"I also uploaded some GUI interfaces of my app. This app is designed exclusively for use on laptops."
+
+
 📞 Contact
 
 Mohammad Kaif: mohammadkaif6660@gmail.com
+reg no- 226320050(ECE)
 
 Md Shahnawaj: mbimdshahnawaj0786@gmail.com
+reg no- 226320049(ECE)
 
 💡 “Track your spending, control your future!”
 
